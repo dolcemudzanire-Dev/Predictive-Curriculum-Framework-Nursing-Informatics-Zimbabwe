@@ -1,0 +1,25 @@
+# ---- RStudio / R session files ----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# ---- Participant data (confidential: not for public sharing) ----
+data/
+app/DATA/
+output/cleaned_scored_cnicas_data.csv
+output/CNICAS_complete_analysis_workspace.RData
+output/CNICAS_analysis_objects.rds
+app/*.rds
+
+# ---- Deployment account settings ----
+app/rsconnect/
+
+# ---- Empty / scratch files ----
+app/a.R
+
+# ---- System files ----
+.DS_Store
+Thumbs.db
+desktop.ini
