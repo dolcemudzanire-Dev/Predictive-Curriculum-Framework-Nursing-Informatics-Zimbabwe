@@ -1,0 +1,9 @@
+"predictor","estimate","standard_error","t_value","p_value","lower_95_CI","upper_95_CI"
+"(Intercept)",1.271,0.19,6.672,"<0.001",0.897,1.645
+"academic_device_use_score",0.15,0.042,3.567,"<0.001",0.068,0.233
+"computer_confidence_score",0.332,0.042,7.823,"<0.001",0.249,0.416
+"internet_access_yes",0.122,0.106,1.146,"0.2522",-0.087,0.331
+"formal_computer_training_yes",0.093,0.083,1.12,"0.2632",-0.07,0.255
+"ehr_exposure_level_score",0.037,0.031,1.18,"0.2384",-0.025,0.099
+"informatics_nurse_tutor_yes",0.132,0.083,1.587,"0.1132",-0.031,0.296
+"online_learning_yes",0.157,0.084,1.875,"0.0614",-0.008,0.322

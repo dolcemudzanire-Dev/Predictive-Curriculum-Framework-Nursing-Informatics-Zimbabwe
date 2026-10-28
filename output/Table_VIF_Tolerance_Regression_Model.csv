@@ -1,0 +1,8 @@
+"Predictor","VIF","Tolerance","Interpretation"
+"Academic device-use frequency",1.147,0.872,"No serious multicollinearity"
+"Computer confidence",1.105,0.905,"No serious multicollinearity"
+"Regular internet access",1.144,0.874,"No serious multicollinearity"
+"Formal computer training",1.115,0.897,"No serious multicollinearity"
+"EHR exposure level",1.074,0.931,"No serious multicollinearity"
+"Informatics taught by a nurse tutor",1.116,0.896,"No serious multicollinearity"
+"Prior online-learning exposure",1.091,0.917,"No serious multicollinearity"
