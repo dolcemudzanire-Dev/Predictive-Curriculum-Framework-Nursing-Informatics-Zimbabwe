@@ -1,0 +1,5 @@
+"predictor","spearman_rho","p_value"
+"Academic device-use frequency",0.211,"<0.001"
+"Computer confidence",0.387,"<0.001"
+"Perceived ICT-resource adequacy",0.023,"0.6001"
+"EHR exposure level",0.102,"0.0223"
